@@ -1,0 +1,40 @@
+---
+layout: default
+images:
+  - image_path: /assets/images/corografica_indios.jpg
+    title: Indios Guahibos - provincia de Casanare
+  - image_path: /assets/images/corografica_llaneros.jpg
+    title: Llaneros herrando ganado i recortándole las orejas - provincia de Casanare
+  - image_path: /assets/images/corografica_llanos.jpg
+    title: Vista jeneral de “Los Llanos” - provincia de Casanare
+  - image_path: /assets/images/vicariato_fotografia.jpg
+    title: El R.P. Huberto Damoiseaux. Director de la Misión indígenas del Vaupés, el capitán Mandú y su hijo
+--- 
+{% include site-header.html %}
+
+<main class="main  container">
+
+  <article class="article  article--page  content  typeset">
+
+    <h1>{{ page.title }}</h1>
+	{{ content }}
+	
+	  <ul class="photo-gallery">
+  {% for image in site.data.imagenes %}
+    <li>
+	<a href="{{image.image}}" target="_blank">
+	<img src="{{ image.image }}"/>
+	</a>
+	<p>{{ image.titulo }}</p>
+	</li>
+  {% endfor %}
+</ul>
+  </article>
+
+  {% if page.aside == true %}{% include site-aside.html %}{% endif %}
+
+</main>
+
+
+
+{% include site-footer.html %}
