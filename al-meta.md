@@ -34,8 +34,8 @@ Como en el mar, el paisaje en el Llano es monótono (...).
 
 #### Capítulo XI: El llanero
 <p></p>  
-{% include button.html text="Fragmento digitalizado" link="/assets/al_meta_capitulo_11_fragmento.pdf/" %}
-{% include button.html text="Capítulo completo" link="/assets/al_meta_capitulo_11.pdf/" %}
+{% include button.html text="Fragmento digitalizado" link="/assets/al-meta-capitulo-11-fragmento.pdf/" %}
+{% include button.html text="Capítulo completo" link="/assets/al-meta-capitulo-11.pdf/" %}
 
 <p></p>
 Por otra manifestación extraña de la ley de los contrastes, la soledad y el aislamiento en que viven los llaneros les da aquel espíritu hospitalario de que justamente se ufanan. Son contadas en la existencia del llaneros las ocasiones en que un forastero llega a su cabaña; era de esperarse que fuera montaraz, y sin embargo, sale al encuentro de la caravana para ofrecerle amparo en su casa. Para el llanero no sólo es sagrado el huésped sino que lo constituye en amo y señor. El _trago de café_ de la bienvenida parece sellar un pacto, en virtud del cual todo, desde el chinchorro hasta el perro, quedan a la orden del visitante. Al principio el llanero se muestra discreto en sus intimidades, por timidez, pero luégo abre su corazón, denuncia sus secretos y cuenta su historia.
