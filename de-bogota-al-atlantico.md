@@ -1,7 +1,7 @@
 ---
 layout: page
 title: De Bogotá al Atlántico
-permalink: /fuentes/escritas/de-bogota-al-atlantico
+permalink: /escritas/de-bogota-al-atlantico/
 feature_image: "https://picsum.photos/id/1073/1300/400"
 ---
 
