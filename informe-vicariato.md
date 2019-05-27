@@ -9,12 +9,12 @@ feature_image: "https://picsum.photos/id/1073/1300/400"
 - **Fecha de publicación:** 1913
 - **Tipo de fuente escrita:** Informe de misión católica
 
-{% include button.html text="Documento completo" link="/assets/informe-vicariato.pdf/" %}
+{% include button.html text="Documento completo" link="https://drive.google.com/file/d/1qMHr4GSD6_i9eRxN8e26ovJBHBqY7s4Q/view?usp=sharing" %}
 <p></p>
  
 #### Informe sobre Monfort-Papuri (Vaupés)
 <p></p>  
-{% include button.html text="Fragmento digitalizado" link="/assets/informe-vicariato-fragmento.pdf/" %}
+{% include button.html text="Fragmento digitalizado" link="https://drive.google.com/file/d/1cF_irqAIe43ugKNYmS7NHK6EGFZg4vfx/view?usp=sharing" %}
 
 <p></p>
 **LOS TRABAJOS DE LOS MISIONEROS**
