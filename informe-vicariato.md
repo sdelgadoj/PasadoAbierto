@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Informe del Vicariato Apostólico de los Llanos de San Martín
-permalink: /fuentes/escritas/informe-vicariato/
+permalink: /escritas/informe-vicariato/
 feature_image: "https://picsum.photos/id/1073/1300/400"
 ---
 
