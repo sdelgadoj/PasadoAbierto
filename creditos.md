@@ -22,7 +22,7 @@ feature_image: "https://picsum.photos/id/1073/1300/400"
 
 - **Ideas para guía pedagógica:** 
 
-  *  Camilo José Barreto Villamil
+  *  Camilo José Barreto Villamil, Colegio Agustín Nieto Caballero (Chía, Cundinamarca)
 
 - **Asesoría técnica:** 
 
