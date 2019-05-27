@@ -9,4 +9,4 @@ feature_image: "https://picsum.photos/id/1073/1300/400"
 
 *   [_De Bogotá al Atlántico_ (1893)](/fuentes/escritas/de-bogota-al-atlantico/)
 *   [_Al Meta_ (1913)](/fuentes/escritas/al-meta/)
-*   [_Informe que rinde a la Junta de Misiones de Colombia el vicario apostólico de los Llanos de San Martín _ (1916)](/fuentes/escritas/informe-vicariato/)
+*   [_Informe que rinde a la Junta de Misiones de Colombia el vicario apostólico de los Llanos de San Martín_ (1916)](/fuentes/escritas/informe-vicariato/)
