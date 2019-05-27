@@ -14,8 +14,8 @@ feature_image: "https://picsum.photos/id/1073/1300/400"
 <p></p>  
 #### Capítulo IX: La llanura
 <p></p>  
-{% include button.html text="Fragmento digitalizado" link="/assets/al_meta_capitulo_9_fragmento.pdf/" %}
-{% include button.html text="Capítulo completo" link="/assets/al_meta_capitulo_9.pdf/" %}
+{% include button.html text="Fragmento digitalizado" link="/assets/al-meta-capitulo-9-fragmento.pdf/" %}
+{% include button.html text="Capítulo completo" link="/assets/al-meta-capitulo-9.pdf/" %}
 
 <p></p>
 La soledad y el silencio, la fuerte brisa que viene de allá abajo como mensajera de una región vacía, las lontananzas melancólicas de dos líneas de árboles que se alejan y se pierden de vista, despiertan en el espectador algo como la emoción de una despedida. El buque balanceándose en la rada, el pitazo de la locomotora, el camello enjaezado a las puertas del desierto, todo lo que promete irse prepara en nuestra alma la actitud de un _adiós_. Hay en esto una vaga tristeza.
