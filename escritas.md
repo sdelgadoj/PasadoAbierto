@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Escritas
-permanlink: /fuentes/escritas/
+permanlink: /escritas/
 feature_image: "https://picsum.photos/id/1073/1300/400"
 ---
 
