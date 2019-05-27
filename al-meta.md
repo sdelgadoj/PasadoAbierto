@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Al Meta"
-permalink: /fuentes/escritas/al-meta
+permalink: /escritas/al-meta/
 feature_image: "https://picsum.photos/id/1073/1300/400"
 ---
 - **Autor:** Miguel Triana
