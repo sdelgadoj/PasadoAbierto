@@ -14,8 +14,8 @@ feature_image: "https://picsum.photos/id/1073/1300/400"
 <p></p>  
 #### Capítulo IX: La llanura
 <p></p>  
-{% include button.html text="Fragmento digitalizado" link="/assets/al-meta-capitulo-9-fragmento.pdf/" %}
-{% include button.html text="Capítulo completo" link="/assets/al-meta-capitulo-9.pdf/" %}
+{% include button.html text="Fragmento digitalizado" link="https://drive.google.com/file/d/1g071Mo3RArnG3-GVmwUBx1hlQse9OkqO/view?usp=sharing" %}
+{% include button.html text="Capítulo completo" link="https://drive.google.com/file/d/1BFe9340Wjn7Yk57BSpI6YflZIWR01pi8/view?usp=sharing" %}
 
 <p></p>
 La soledad y el silencio, la fuerte brisa que viene de allá abajo como mensajera de una región vacía, las lontananzas melancólicas de dos líneas de árboles que se alejan y se pierden de vista, despiertan en el espectador algo como la emoción de una despedida. El buque balanceándose en la rada, el pitazo de la locomotora, el camello enjaezado a las puertas del desierto, todo lo que promete irse prepara en nuestra alma la actitud de un _adiós_. Hay en esto una vaga tristeza.
@@ -34,8 +34,8 @@ Como en el mar, el paisaje en el Llano es monótono (...).
 
 #### Capítulo XI: El llanero
 <p></p>  
-{% include button.html text="Fragmento digitalizado" link="/assets/al-meta-capitulo-11-fragmento.pdf/" %}
-{% include button.html text="Capítulo completo" link="/assets/al-meta-capitulo-11.pdf/" %}
+{% include button.html text="Fragmento digitalizado" link="https://drive.google.com/file/d/1r04Kh1_n2jgnT8hK1_50smylkmixSOTR/view?usp=sharing" %}
+{% include button.html text="Capítulo completo" link="https://drive.google.com/file/d/1jzr5u0xHOSDYequTtPRMZiOArD3xzD2e/view?usp=sharing" %}
 
 <p></p>
 Por otra manifestación extraña de la ley de los contrastes, la soledad y el aislamiento en que viven los llaneros les da aquel espíritu hospitalario de que justamente se ufanan. Son contadas en la existencia del llaneros las ocasiones en que un forastero llega a su cabaña; era de esperarse que fuera montaraz, y sin embargo, sale al encuentro de la caravana para ofrecerle amparo en su casa. Para el llanero no sólo es sagrado el huésped sino que lo constituye en amo y señor. El _trago de café_ de la bienvenida parece sellar un pacto, en virtud del cual todo, desde el chinchorro hasta el perro, quedan a la orden del visitante. Al principio el llanero se muestra discreto en sus intimidades, por timidez, pero luégo abre su corazón, denuncia sus secretos y cuenta su historia.
