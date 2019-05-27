@@ -52,7 +52,7 @@ navigation_footer:
 # 4. Jekyll settings
 sass:
   style: compressed # Style compression
-permalink:   
+permalink: pretty  
 
 # 5. Collections
 collections:
